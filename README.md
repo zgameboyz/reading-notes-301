@@ -7,7 +7,7 @@
 #### Table of Contents
 
 [1](reading-notes-1.md)
-[2]()
+[2](reading-notes-2.md)
 [3]()
 [4]()
 [5]()
