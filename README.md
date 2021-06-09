@@ -8,7 +8,7 @@
 
 [1](reading-notes-1.md)
 [2](reading-notes-2.md)
-[3]()
+[3](reading-notes-3.md)
 [4]()
 [5]()
 [6]()
