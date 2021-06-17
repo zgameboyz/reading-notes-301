@@ -13,7 +13,7 @@
 [5](reading-notes-5.md)
 [6](reading-notes-6.md)
 [7](reading-notes-7.md)
-[8]()
+[8](reading-notes-8.md)
 [9]()
 [10]()
 [11]()
